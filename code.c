@@ -13,6 +13,6 @@ int main()
 {
     int bin=111;
     printf("%d",bintodec(bin));
-    return
+    return 0;
     
 }
